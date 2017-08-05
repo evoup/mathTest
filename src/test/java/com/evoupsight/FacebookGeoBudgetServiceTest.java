@@ -1,4 +1,4 @@
-package com.madhouse.performad.adsapi.facebook.service.imp;
+package com.evoupsight;
 
 import org.apache.commons.math3.stat.regression.OLSMultipleLinearRegression;
 import org.apache.commons.math3.stat.regression.SimpleRegression;
